@@ -15,7 +15,7 @@ There are several key features of this project:
 ## Technologies
 
 + Java
-+ Arduino
++ C (Arduino)
 + ZigBee network
 + Humidity sensor
 + Temperature sensor
