@@ -11,6 +11,7 @@ There are several key features of this project:
 + Water pump attached with each node can be triggered manually or automatically whenever the temperature is too high or the humidity is too low
 + Can detect node failures in order to react promptly
 + Data will be exported to Excel files automatically for analyzing future trends
++ **Note**: If there's a new node, users just need to install the firmware and then the node will automatically connect to the data center (my laptop).
 
 ## Technologies
 
